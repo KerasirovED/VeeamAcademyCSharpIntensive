@@ -1,10 +1,13 @@
 ﻿
-// Immutable animal
-// Second variant
-//
-// We can use struct, create new object,
-// and change current object to new object
-// when one of object properties is changing.
+/* == SECOND ANSWER ==
+ *
+ * Immutable animal
+ * Second variant
+ *
+ * We can use struct, create new object,
+ * and change current object to new object
+ * when one of object properties is changing.
+ */
 
 using System;
 

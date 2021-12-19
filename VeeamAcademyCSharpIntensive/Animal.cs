@@ -1,12 +1,15 @@
 ﻿
-// Immutable animal
-// First variant
-//
-// Name is setting when the object is creating. 
-// After creation the object cannot be changed.
-// It is the immutable object.
-// When user is creating new object using operation: Animal animal = "AnimalName"
-// a new object of Animal is creating
+/* == FIRST ANSWER ==
+ * 
+ * Immutable animal
+ * First variant
+ *
+ * Name is setting when the object is creating. 
+ * After creation the object cannot be changed.
+ * It is the immutable object.
+ * When user is creating new object using operation: Animal animal = "AnimalName"
+ * a new object of Animal is creating
+ */
 
 using System;
 

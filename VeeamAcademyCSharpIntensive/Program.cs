@@ -1,11 +1,20 @@
 ﻿
-// Create your own immutable type.
-// When a field of the your type is changed
-// a new object of the class have been created.
-// You can use String class as an example.
-//
-// Animal is the first implementation
-// Person is the second implementation
+/* == TASK ==
+ * 
+ * Create your own immutable type.
+ * When a field of the your type is changed
+ * a new object of the class have been created.
+ * You can use String class as an example.
+ *
+ * Animal is the first implementation
+ * Person is the second implementation
+ */
+
+/* == ANSWER ==
+ * 
+ * First answer: see in Animal.cs
+ * Second answer: see in Person.cs
+ */
 
 namespace TaskOne
 {
